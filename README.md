@@ -1,6 +1,6 @@
 # travel
 
-> A Vue.js project
+> 慕课网vue去哪儿课程代码
 
 ## Build Setup
 
